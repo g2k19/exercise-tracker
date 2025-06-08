@@ -27,7 +27,7 @@ A RESTful API microservice for tracking exercises built as part of the [FreeCode
 
 ## Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://exercise-tracker-pn5i.onrender.com)
 
 ## Installation & Setup
 1. Clone the repository.
