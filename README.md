@@ -52,4 +52,4 @@ npm start
 
 ## Project Requirements
 
-This project fulfills all following FreeCodeCamp user stories.
+This project fulfills all FreeCodeCamp user stories.
