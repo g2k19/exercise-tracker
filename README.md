@@ -32,7 +32,7 @@ A RESTful API microservice for tracking exercises built as part of the [FreeCode
 ## Installation & Setup
 1. Clone the repository.
 ```bash
-git clone https://github.com/g2k19/fcc-exercise-tracker.git
+git clone https://github.com/g2k19/exercise-tracker.git
 cd fcc-exercise-tracker
 ```
 2. Install dependencies:
